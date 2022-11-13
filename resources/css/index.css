@@ -1,0 +1,54 @@
+body {
+    background: ##e6e6e6;
+    color: black;
+    padding: 25px;
+    font-family: sans-serif;
+    text-align: center;
+  }
+  p {
+    text-align: center;
+  
+  }
+  
+  img {
+    border-radius: 50%
+  }
+  
+  #frontimage {
+    height: 400px;
+    width: 400px;
+  }
+  
+  footer {color: lightblue}
+  
+  .nav{
+    background-color: white;
+    font-size:20px;
+    color: black;
+    display: inline-block;
+    z-index: 1;
+  }
+  
+  
+  a h2 {
+    border: 5px solid black;
+    width: 160px
+    font-family: "Helvetica"
+  }
+  
+  h2 a {
+    font-family: "Times New Roman";
+  }
+  
+  table, th, td {
+    border: 2px solid black;
+  }
+  
+  a:link { text-decoration: none; }
+  
+  a:visited { text-decoration: none; }
+  
+  a:hover { text-decoration: none; }
+  
+  a:active { text-decoration: none; }
+  
